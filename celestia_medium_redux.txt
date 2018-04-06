@@ -1,0 +1,27 @@
+http://www.mattyhex.net/CMR/
+
+Based upon 'Generation B' by Harold Lohner, as found in the MLP:FiM logo. Orignal Celestia Medium created by Purple Tinker, redux by Mattyhex; FontForge and Inkscape.
+
+A breif history of why this font exists.
+
+(As I know it anyway)
+
+There is a cartoon show called 'My Little Pony: Friendship is Magic', I happen to have fallen into it's unanticipated fanbase (the 'Bronies').
+
+The show's logo contains text that uses a font called Generation B, as produced by Harold Lohner and it's available to purchase for $20 here.
+
+Fans began to produce their own material (artwork/videos/websites/games/etc.) based upon the show and they thought it would be great if the text that appeared in their material could look like that in the show's logo.
+
+As such, at some point in time, a replica image was produced and released onto an image board that contained more or less a trace of the text in the logo. This image was used by someone named Purple Tinker as a basis for the original Celestia Medium font.
+
+Some people began to pick up on, and question the morality/legality behind working on a 'knock-off' of a commercial font, as a consequence work upon the original Celestia Medium stopped, as too did it's (regular) availability.
+
+It was at this point I stepped in.
+
+I managed to track down a copy of Celestia Medium, and decided I'd work it into a less legally questionable 'fanbased' form. From the original font file I exported each of the available glyphs as an SVG and reworked them in Inkscape (and also produced several new ones).
+
+This allowed me to make the redux different from the original and also, hopefully, made it distinctive from Generation B.
+
+I should also point out, that before I did start the redux, I asked Harold Lohner if he didn't want me to, he gave me the very clear line of 'please don't rework the Generation B files', which I can't.
+
+Yes bob, it's me who made the font. :P
